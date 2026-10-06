@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+data/
+runs/
+*.jsonl
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
